@@ -1,7 +1,7 @@
 # Adonis-Oops-All-False
 This script demonstrates a bypass for the `indexInstance` detector in the Adonis Anti-Cheat system.
 
-**Disclaimer:** This script is for educational purposes only. Using it in a real game environment may violate the game's terms of service and result in penalties.
+**Disclaimer:** This script is for educational purposes only. Using it in a real game environment may violate the game's terms of service and result in penalties. The author does not take any responsibility for any negative consequences resulting from possible violations of the game's rules.
 
 How it works:
 
